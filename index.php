@@ -1,5 +1,8 @@
+<body bgcolor='#e1e1e1'>
+<pre>
 <? php
-print `ifconfig`
-<img src= "https://s3-bucket-task1.s3.ap-south-1.amazonaws.com/dog.jpg" , width='500', height='500'/>
-
+print "Welcome to Yashika Khandelwal's page" 
+<img src='https://buckettask1.s3.ap-south-1.amazonaws.com/dog.916.jpg' , width='499', height='392'/>
+ 
 ?>
+</pre>
