@@ -1,5 +1,4 @@
-Welcome to Tanmay Sharma's page.
-There are my friends Shubh (Extreme Left), Yashika (mid), Shivansh (Extreme Right).
+Welcome to Yashika Khandelwal's page.
 <pre>
 <html>
 <body>
