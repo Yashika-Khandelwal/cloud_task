@@ -4,7 +4,7 @@ There are my friends Shubh (Extreme Left), Yashika (mid), Shivansh (Extreme Righ
 <html>
 <body>
 <?php
-echo "<img src='https://s3-bucket-task1.s3.ap-south-1.amazonaws.com/dog.jpg' , width='499', height='392' />";
+echo "<img src='https://s3-bucket-task1.s3.ap-south-1.amazonaws.com/dog.jpeg' , width='499', height='392' />";
 ?>
 </body>
 </html>
